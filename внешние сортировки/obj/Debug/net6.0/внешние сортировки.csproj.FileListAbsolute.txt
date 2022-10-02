@@ -1,0 +1,15 @@
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\bin\Debug\net6.0\внешние сортировки.exe
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\bin\Debug\net6.0\внешние сортировки.deps.json
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\bin\Debug\net6.0\внешние сортировки.runtimeconfig.json
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\bin\Debug\net6.0\внешние сортировки.dll
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\bin\Debug\net6.0\внешние сортировки.pdb
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.csproj.AssemblyReference.cache
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.AssemblyInfoInputs.cache
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.AssemblyInfo.cs
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.csproj.CoreCompileInputs.cache
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.dll
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\refint\внешние сортировки.dll
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.pdb
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\внешние сортировки.genruntimeconfig.cache
+C:\Users\kiril\лабораторные по программированию\внешние сортировки\obj\Debug\net6.0\ref\внешние сортировки.dll
