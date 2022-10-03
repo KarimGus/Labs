@@ -6,6 +6,7 @@ using System.Text.Unicode;
 
 internal class Program
 {
+    //jjkjkj
     private static void Main(string[] args)
     {
         using (FileStream fs1 = File.Create(Directory.GetCurrentDirectory() + "\\F1.txt"))  
